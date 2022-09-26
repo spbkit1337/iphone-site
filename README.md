@@ -1,8 +1,10 @@
 # iphone-site
 
-Сайт продажа айфона
+Сайт продажа айфона 📱🍎
 
 ссылка чтобы посмотреть наглядно : https://spbkit1337.github.io/iphone-site/
+
+макет figma🎨 : https://www.figma.com/file/9lzF93fwjvb7KuxXUwqf4M/Iphone-14-pro?node-id=0%3A1
 
 Полезные ссылки🔗:
 1) ссылка на урок https://www.youtube.com/watch?v=2dVPFVX3ZZ0&list=WL&index=5
